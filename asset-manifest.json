@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-ecomm-sample/static/css/main.c35e003f.chunk.css",
-    "main.js": "/react-ecomm-sample/static/js/main.535316d9.chunk.js",
-    "main.js.map": "/react-ecomm-sample/static/js/main.535316d9.chunk.js.map",
+    "main.js": "/react-ecomm-sample/static/js/main.095fe7cf.chunk.js",
+    "main.js.map": "/react-ecomm-sample/static/js/main.095fe7cf.chunk.js.map",
     "runtime-main.js": "/react-ecomm-sample/static/js/runtime-main.e253932b.js",
     "runtime-main.js.map": "/react-ecomm-sample/static/js/runtime-main.e253932b.js.map",
     "static/js/2.752c62b0.chunk.js": "/react-ecomm-sample/static/js/2.752c62b0.chunk.js",
     "static/js/2.752c62b0.chunk.js.map": "/react-ecomm-sample/static/js/2.752c62b0.chunk.js.map",
     "index.html": "/react-ecomm-sample/index.html",
-    "precache-manifest.164c0cdc4c615e463733e0ba91209b87.js": "/react-ecomm-sample/precache-manifest.164c0cdc4c615e463733e0ba91209b87.js",
+    "precache-manifest.bc44fff507621add2982ebb2f5688479.js": "/react-ecomm-sample/precache-manifest.bc44fff507621add2982ebb2f5688479.js",
     "service-worker.js": "/react-ecomm-sample/service-worker.js",
     "static/css/main.c35e003f.chunk.css.map": "/react-ecomm-sample/static/css/main.c35e003f.chunk.css.map",
     "static/js/2.752c62b0.chunk.js.LICENSE.txt": "/react-ecomm-sample/static/js/2.752c62b0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e253932b.js",
     "static/js/2.752c62b0.chunk.js",
     "static/css/main.c35e003f.chunk.css",
-    "static/js/main.535316d9.chunk.js"
+    "static/js/main.095fe7cf.chunk.js"
   ]
 }
